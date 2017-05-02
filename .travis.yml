@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - '6'
-  - '4'
+  - '7'
 script:
   - npm run build  # build
   - npm run coverage  # run mocha unit tests with coverage
