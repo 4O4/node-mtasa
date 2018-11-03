@@ -2,6 +2,13 @@
     "extends": "tslint:recommended",
     "rules": {
         "object-literal-sort-keys": false,
-        "no-unused-expression": false
+        "no-unused-expression": false,
+        "trailing-comma": {
+            "options": {
+                "esSpecCompliant": true,
+                "multiline": "always",
+                "singleline": "never"
+            }
+        }
     }
 }
