@@ -54,7 +54,7 @@ export class Client<R extends object = any> {
     public async call<A, T extends keyof R = keyof R>(
         resourceName: T,
         procedureName: keyof R[T],
-        ...args: any[],
+        ...args: any[]
     ): Promise<A> {
         const uri = `${this.serverUri}/${resourceName}/call/${procedureName}`;
         const result = await post({
