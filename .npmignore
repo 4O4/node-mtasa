@@ -1,0 +1,22 @@
+coverage/
+
+# Any hidden files
+**/.*
+
+node_modules
+scripts
+src
+test
+_docs
+
+bower.json
+karma.conf.js
+tsconfig.json
+tsconfig.**.json
+tslint.json
+webpack.config.js
+
+*.iml
+*.ipr
+*.iws
+idea-out
