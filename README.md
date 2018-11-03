@@ -4,7 +4,7 @@
 
 # MTA:SA SDK for Node.js
 
-Simple module to simplify integration of external apps with MTA:SA servers. Uses the standard HTTP call interface. 
+Lightweight module to simplify integration of external apps with MTA:SA servers. Uses the standard HTTP call interface. 
 
 ## Installation
 
