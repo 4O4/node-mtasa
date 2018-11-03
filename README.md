@@ -65,7 +65,7 @@ You can also jump straight into the source code of the library and unit tests.
 
 ## Project status
 
-This library is totally usable but is perhaps still lacking some features, hence the 0.1.1 version. I consider it stable for my own needs. Feel free to report bugs or feature requests [here](https://github.com/4O4/node-mtasa/issues). PRs welcome too.
+This library is totally usable but is perhaps still lacking some features, hence the 0.1.x version. I consider it stable for my own needs. Feel free to report bugs or feature requests [here](https://github.com/4O4/node-mtasa/issues). PRs welcome too.
 
 ## License
 
