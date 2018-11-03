@@ -4,7 +4,7 @@
 
 # MTA:SA SDK for Node.js
 
-Lightweight module to simplify integration of external apps with MTA:SA servers. Uses the standard HTTP call interface, which you can learn more about [here]((https://wiki.multitheftauto.com/wiki/Resource_Web_Access). 
+Lightweight module to simplify integration of external apps with MTA:SA servers. Uses the standard HTTP call interface, which you can learn more about [here](https://wiki.multitheftauto.com/wiki/Resource_Web_Access). 
 
 ## Installation
 
