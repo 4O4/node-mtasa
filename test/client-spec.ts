@@ -158,7 +158,6 @@ describe("client", () => {
     it("should allow to perform calls with client.resources.resource_name.procedureName syntax", async () => {
         const mta = new Client();
         const spy = sinon.spy(mta, "call");
-        spy.reset();
 
         expect(mta.resources.test_res).to.be.ok;
         expect(mta.resources.test_res.testProc).to.be.ok;
